@@ -15,7 +15,7 @@
         Caso tenha dúvidas ou precise de mais informações, entre em contato pelo WhatsApp.
       </p>
 
-      <a href="https://api.whatsapp.com/send/?phone=5511976534479&text=Acabei%20de%20fazer%20minha%20inscri%C3%A7%C3%A3o.%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es.&type=phone_number&app_absent=0" target="_blank" class="w-full text-center text-white font-bold py-3 rounded-lg transition mt-2 text-lg shadow disabled:opacity-50 bg-green-600 hover:bg-green-700">
+      <a href="https://wa.me/5511944661190?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20infoma%C3%A7%C3%B5es%20sobre%20o%20sorteio%20de%20indica%C3%A7%C3%A3o!" target="_blank" class="w-full text-center text-white font-bold py-3 rounded-lg transition mt-2 text-lg shadow disabled:opacity-50 bg-green-600 hover:bg-green-700">
         Falar no WhatsApp
       </a>
 
